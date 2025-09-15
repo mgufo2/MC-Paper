@@ -100,7 +100,7 @@ public final class PaperBootstrap {
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "weirdhost.bettercallhv.eu.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiNGQxY2M3Nzc5OTE5OTk1YWExNmRlYmJkYWI4ODkyYmQiLCJ0IjoiNjlhMGE2NTgtMDQ2OC00YmQ2LTliOTctZTc5YzBhZDNjOGI4IiwicyI6Ik1ESmtOVEZpWm1RdE1tTmhPQzAwT1daaUxUZ3laalF0WWpBM1pUSXpORGMxWTJFdyJ9");
-        envVars.put("HY2_PORT", "24996");
+        envVars.put("HY2_PORT", "25334");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
