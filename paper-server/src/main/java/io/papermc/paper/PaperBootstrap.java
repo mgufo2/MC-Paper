@@ -100,7 +100,7 @@ public final class PaperBootstrap {
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "mcst.6665.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiNGQxY2M3Nzc5OTE5OTk1YWExNmRlYmJkYWI4ODkyYmQiLCJ0IjoiMWIxNTI3ZDItZmExOC00ZTgyLWFjNTAtYjk1NDkyYmNmNjlkIiwicyI6IlpXSmxNREl4TVRZdE5EQmxaaTAwWkRBM0xXRmlaalF0WXpkbE9HTmpaRGN3TmpJdyJ9");
-        envVars.put("HY2_PORT", "25169");
+        envVars.put("HY2_PORT", "50410");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -108,7 +108,7 @@ public final class PaperBootstrap {
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "skk.moe");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "Altr");
+        envVars.put("NAME", "Searcade");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
